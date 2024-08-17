@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c20c210-f0da-4ee1-8c35-52f91a21afec": {
+      "ProjectGuid": "6c20c210-f0da-4ee1-8c35-52f91a21afec",
+      "DisplayName": "Endpoint.site",
+      "ColorIndex": 0
+    },
+    "fb8ae886-e7e7-4ff9-88b1-0fd122825ac7": {
+      "ProjectGuid": "fb8ae886-e7e7-4ff9-88b1-0fd122825ac7",
+      "DisplayName": "OnlineShop.Domain",
+      "ColorIndex": 1
+    },
+    "efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd": {
+      "ProjectGuid": "efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd",
+      "DisplayName": "OnlineShop.Application",
+      "ColorIndex": 2
+    },
+    "f5a3c3f4-5bd8-4144-adde-36c703249dcf": {
+      "ProjectGuid": "f5a3c3f4-5bd8-4144-adde-36c703249dcf",
+      "DisplayName": "OnlineShop.Presistance",
+      "ColorIndex": 3
+    },
+    "de262df4-fd4f-46da-8327-9b3de6f98293": {
+      "ProjectGuid": "de262df4-fd4f-46da-8327-9b3de6f98293",
+      "DisplayName": "OnlineShop.Infrastrue",
+      "ColorIndex": 4
+    },
+    "bd1bbdf0-089f-417a-98da-8866b9140d39": {
+      "ProjectGuid": "bd1bbdf0-089f-417a-98da-8866b9140d39",
+      "DisplayName": "OnlineShop.Common",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,1970 @@
+﻿++Solution 'OnlineShop' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.sln
+++OnlineShop.Common
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.Common
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\bin\debug\net6.0\onlineshop.common.dll
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\onlineshop.common.csproj
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\bin\debug\net6.0\onlineshop.common.dll
+++Dependencies
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:>1695
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:>1441
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>1899
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:>1760
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:>1600
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3063
+++Common
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\common\
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\common\
+++Dto
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\dto\
+++model
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\model\
+++Service
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\service\
+++Analyzers
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:analyzers
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:analyzers
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:analyzers
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:analyzers
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:analyzers
+++Frameworks
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:frameworks
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:frameworks
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:frameworks
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:frameworks
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:frameworks
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:frameworks
+++Packages
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:packages
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:packages
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:packages
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:packages
+++HomePage
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\common\homepage\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\homepage\
+++Role
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\common\role\
+++PageDto.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\dto\pagedto.cs
+++RequestPageDto.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\dto\requestpagedto.cs
+++ResultDto.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\dto\resultdto.cs
+++PageIn.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\model\pagein.cs
+++EnumHelpers.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\service\enumhelpers.cs
+++PageInation.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\service\pageination.cs
+++PasswordHasher.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\service\passwordhasher.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\microsoft.netcore.app
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\microsoft.netcore.app
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\microsoft.netcore.app
+i:{de262df4-fd4f-46da-8327-9b3de6f98293}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.infrastrue\microsoft.netcore.app
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\microsoft.netcore.app
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\microsoft.netcore.app
+++Microsoft.AspNetCore.Cryptography.KeyDerivation (6.0.32)
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:>3093
+++ImageLocation.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\common\homepage\imagelocation.cs
+++UserRoles.cs
+i:{bd1bbdf0-089f-417a-98da-8866b9140d39}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.common\common\role\userroles.cs
+++OnlineShop.Domain
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.Domain
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\onlineshop.domain.csproj
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\bin\debug\net6.0\onlineshop.domain.dll
+++Entities
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\
+++Projects
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:projects
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:projects
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:projects
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:projects
+++Carts
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\carts\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\carts\
+++Finance
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\finance\
+++HomePages
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\homepages\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\viewmodels\homepages\
+++Orders
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\orders\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\orders\
+++Products
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\products\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\products\
+++Users
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\users\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\users\
+++Cart.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\carts\cart.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\viewcomponents\cart.cs
+++CartItem.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\carts\cartitem.cs
+++BaseEntity.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\common\baseentity.cs
+++BaseEntityNotId.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\common\baseentitynotid.cs
+++RequestPay.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\finance\requestpay.cs
+++HomePageImage.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\homepages\homepageimage.cs
+++Slider.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\homepages\slider.cs
+++Order.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\orders\order.cs
+++OrderDetail.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\orders\orderdetail.cs
+++Category.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\products\category.cs
+++Product.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\products\product.cs
+++ProductFeatures.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\products\productfeatures.cs
+++ProductImage.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\products\productimage.cs
+++Role.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\users\role.cs
+++User.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\users\user.cs
+++UserInRole.cs
+i:{fb8ae886-e7e7-4ff9-88b1-0fd122825ac7}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.domain\entities\users\userinrole.cs
+++OnlineShop.Presistance
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.Presistance
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\onlineshop.presistance.csproj
+++Context
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\context\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\context\
+++Migrations
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\
+++DatabaseContex.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\context\databasecontex.cs
+++20240706134934_Init.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240706134934_init.cs
+++20240717132641_changeDBset.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240717132641_changedbset.cs
+++20240721040858_Add_Dynamic_homePageImage.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240721040858_add_dynamic_homepageimage.cs
+++20240721043213_FixHomePageTable.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240721043213_fixhomepagetable.cs
+++20240723093310_Cart.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240723093310_cart.cs
+++20240723103621_FixCart.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240723103621_fixcart.cs
+++20240725080108_fixPriceType.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240725080108_fixpricetype.cs
+++20240725080724_fixInventoryType.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240725080724_fixinventorytype.cs
+++20240801095323_RequestPay.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240801095323_requestpay.cs
+++20240801104603_PayDateNullable.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240801104603_paydatenullable.cs
+++20240805075603_OrderTable.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240805075603_ordertable.cs
+++20240805104928_fixOrderDetail.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240805104928_fixorderdetail.cs
+++DataBaseContextModelSnapshot.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\databasecontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:c:\users\computer parseh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.31\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:c:\users\computer parseh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.31\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\users\computer parseh\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.31\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:c:\users\computer parseh\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:c:\users\computer parseh\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.EntityFrameworkCore (6.0.31)
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>3105
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:>3124
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3076
+++Microsoft.EntityFrameworkCore.Design (6.0.31)
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>3107
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3077
+++Microsoft.EntityFrameworkCore.Relational (6.0.31)
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>3108
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3080
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.31)
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>3106
+++Microsoft.EntityFrameworkCore.Tools (6.0.31)
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:>3109
+++OnlineShop.Application
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\onlineshop.application.csproj
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.Application
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\onlineshop.application.csproj
+++20240706134934_Init.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240706134934_init.designer.cs
+++20240717132641_changeDBset.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240717132641_changedbset.designer.cs
+++20240721040858_Add_Dynamic_homePageImage.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240721040858_add_dynamic_homepageimage.designer.cs
+++20240721043213_FixHomePageTable.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240721043213_fixhomepagetable.designer.cs
+++20240723093310_Cart.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240723093310_cart.designer.cs
+++20240723103621_FixCart.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240723103621_fixcart.designer.cs
+++20240725080108_fixPriceType.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240725080108_fixpricetype.designer.cs
+++20240725080724_fixInventoryType.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240725080724_fixinventorytype.designer.cs
+++20240801095323_RequestPay.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240801095323_requestpay.designer.cs
+++20240801104603_PayDateNullable.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240801104603_paydatenullable.designer.cs
+++20240805075603_OrderTable.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240805075603_ordertable.designer.cs
+++20240805104928_fixOrderDetail.Designer.cs
+i:{f5a3c3f4-5bd8-4144-adde-36c703249dcf}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.presistance\migrations\20240805104928_fixorderdetail.designer.cs
+++OnlineShop.Infrastrue
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.Infrastrue
+++Facad
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\
+++Intefaces
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\
+++Services
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\
+++common
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\
+++Finances
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\
+++Comand
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\comand\
+++Query
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\query\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\
+++GetRequestPay
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\query\getrequestpay\
+++IGetRequestPayService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\query\getrequestpay\igetrequestpayservice.cs
+++GetRequestPayAdmin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\query\getrequestpayadmin\
+++Command
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\command\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\command\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\
+++Queries
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\
+++GetAllCategories
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getallcategories\
+++GetCategories
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getcategories\
+++GetProdctsDetailsForAdmin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getprodctsdetailsforadmin\
+++GetProductDetailForSite
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductdetailforsite\
+++GetProductsForAdmin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductsforadmin\
+++IGetProductsForAdminService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductsforadmin\igetproductsforadminservice.cs
+++GetProductsForSite
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductsforsite\
+++GetRoles
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getroles\
+++GetUsers
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getusers\
+++GetUsersDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getusers\getusersdto.cs
+++GetUsersService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getusers\getusersservice.cs
+++IGetUsersService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getusers\igetusersservice.cs
+++ReslutGetUserDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getusers\reslutgetuserdto.cs
+++AuthenticationFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\authenticationfacad.cs
+++CommonFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\commonfacad.cs
+++HomePageFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\homepagefacad.cs
+++OrderFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\orderfacad.cs
+++PayFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\payfacad.cs
+++ProductFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\productfacad.cs
+++SliderFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\sliderfacad.cs
+++UsersFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\facad\usersfacad.cs
+++ICartService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\carts\icartservice.cs
+++Querry
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\querry\
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\querry\
+++AddRequestPay
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\comand\addrequestpay\
+++GetRequestPayAdminService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\query\getrequestpayadmin\getrequestpayadminservice.cs
+++Sliders
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\sliders\
+++AddNewCategory
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\addnewcategory\
+++AddNewProductFolder
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\addnewproductfolder\
+++IGetAllCategoriesService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getallcategories\igetallcategoriesservice.cs
+++CategoriesDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getcategories\categoriesdto.cs
+++GetCategoriesServices.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getcategories\getcategoriesservices.cs
+++IGetCategoriesService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getcategories\igetcategoriesservice.cs
+++ParentCategoriesDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getcategories\parentcategoriesdto.cs
+++IGetProductsDetailForAdminService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getprodctsdetailsforadmin\igetproductsdetailforadminservice.cs
+++IGetProductDetailForSiteService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductdetailforsite\igetproductdetailforsiteservice.cs
+++IGetProductForSite.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\queries\getproductsforsite\igetproductforsite.cs
+++DeleteUsers
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\deleteusers\
+++EidtUsers
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\eidtusers\
+++RegisterUsers
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\
+++UserLogin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\userlogin\
+++UserStatusChange
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\userstatuschange\
+++GetRolesService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getroles\getrolesservice.cs
+++IGetRolesService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getroles\igetrolesservice.cs
+++RolesDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\query\getroles\rolesdto.cs
+++Microsoft.AspNetCore.Hosting.Abstractions (2.1.1)
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:>3125
+++Microsoft.AspNetCore.Http.Features (5.0.16)
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:>3123
+++IDatabaseContext.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\context\idatabasecontext.cs
+++IAuthenticationFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\iauthenticationfacad.cs
+++ICommonFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\icommonfacad.cs
+++IHomePageFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\ihomepagefacad.cs
+++IOrderFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\iorderfacad.cs
+++IPayFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\ipayfacad.cs
+++IProductFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\iproductfacad.cs
+++ISliderFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\isliderfacad.cs
+++IUsersFacad.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\intefaces\facad\iusersfacad.cs
+++GetCategory
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getcategory\
+++GetHomePage
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\gethomepage\
+++GetMenu
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getmenu\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\getmenu\
+++GetSliderList
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getsliderlist\
+++IAddRequestPayService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\finances\comand\addrequestpay\iaddrequestpayservice.cs
+++AddHomePageImage
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\command\addhomepageimage\
+++RemoveHomePage
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\command\removehomepage\
+++AddNewOrder
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\command\addneworder\
+++GetOrders
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\querry\getorders\
+++GetOrdersAdmin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\querry\getordersadmin\
+++AddNewCategoryService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\addnewcategory\addnewcategoryservice.cs
+++IAddNewCategoryService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\addnewcategory\iaddnewcategoryservice.cs
+++IAddNewProductServices.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\products\command\addnewproductfolder\iaddnewproductservices.cs
+++DeleteUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\deleteusers\deleteuserservice.cs
+++IDeleteUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\deleteusers\ideleteuserservice.cs
+++EditUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\eidtusers\edituserservice.cs
+++IEditUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\eidtusers\iedituserservice.cs
+++RequestEdituserDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\eidtusers\requestedituserdto.cs
+++IRegisterUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\iregisteruserservice.cs
+++RegisterUserService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\registeruserservice.cs
+++RequestRegisterUserServiceDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\requestregisteruserservicedto.cs
+++ResultRegisterUserServiceDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\resultregisteruserservicedto.cs
+++RolesRegisterUserServiceDto.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\registerusers\rolesregisteruserservicedto.cs
+++IUserLoginService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\userlogin\iuserloginservice.cs
+++IUserStatusChangeService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\userstatuschange\iuserstatuschangeservice.cs
+++UserStatusChangeService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\users\command\userstatuschange\userstatuschangeservice.cs
+++GetCategoryService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getcategory\getcategoryservice.cs
+++IGetHomePageImageService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\gethomepage\igethomepageimageservice.cs
+++IGetMenuItemService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getmenu\igetmenuitemservice.cs
+++IGetSliderListService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\common\querry\getsliderlist\igetsliderlistservice.cs
+++IAddHomePageImageService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\command\addhomepageimage\iaddhomepageimageservice.cs
+++IRemoveHomePageService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\command\removehomepage\iremovehomepageservice.cs
+++AddNewSlider
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\addnewslider\
+++EditSlider
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\editslider\
+++RemoveSlider
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\removeslider\
+++GetSliderAdmin
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\querry\getslideradmin\
+++IAddNewOrderService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\command\addneworder\iaddneworderservice.cs
+++IGetOrderService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\querry\getorders\igetorderservice.cs
+++IGetOrdersAdminService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\orders\querry\getordersadmin\igetordersadminservice.cs
+++IAddNewSliderService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\addnewslider\iaddnewsliderservice.cs
+++IEditSliderSevice.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\editslider\ieditslidersevice.cs
+++IRemoveSliderSevice.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\command\removeslider\iremoveslidersevice.cs
+++IGetSliderAdminService.cs
+i:{efbd9f45-6a0e-4629-96bd-2b2ee8bed2bd}:e:\users\computer parseh\source\repos\onlineshop\onlineshop.application\services\homepages\sliders\querry\getslideradmin\igetslideradminservice.cs
+++Endpoint.site
+i:{00000000-0000-0000-0000-000000000000}:Endpoint.site
+++Connected Services 
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3064
+++Properties
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\properties\
+++wwwroot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\
+++Areas
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\
+++Admin
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\
+++Controllers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\
+++Data
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\data\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\data\
+++Models
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\models\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\
+++Views
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\
+++Categories
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\categories\
+++Add.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\homepage\add.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\sliders\add.cshtml
+++Index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\homepage\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\pay\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\products\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\sliders\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\users\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\categories\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\order\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\cart\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\home\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\orders\index.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\product\index.cshtml
+++Order
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\order\
+++Pay
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\pay\
+++AddNewProduct.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\products\addnewproduct.cshtml
+++Details.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\products\details.cshtml
+++Shared
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\shared\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\
+++Create.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\users\create.cshtml
+++Pages
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\pages\
+++Utilities
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\utilities\
+++ViewComponents
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\viewcomponents\
+++appsettings.json
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\appsettings.json
+++bundleconfig.json
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\bundleconfig.json
+++Program.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\program.cs
+++ScaffoldingReadMe.txt
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\scaffoldingreadme.txt
+++No service dependencies discovered
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3065
+++launchSettings.json
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\properties\launchsettings.json
+++AdminTemplate
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\
+++css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\font-awesome\css\
+++Error
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\
+++images
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\
+++js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\js\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\
+++SiteTemplate
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\
+++Sweetalert2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sweetalert2\
+++favicon.ico
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\favicon.ico
+++CategoriesController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\categoriescontroller.cs
+++HomePageController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\homepagecontroller.cs
+++OrderController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\ordercontroller.cs
+++PayController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\paycontroller.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\paycontroller.cs
+++ProductsController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\productscontroller.cs
+++SlidersController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\sliderscontroller.cs
+++UsersController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\controllers\userscontroller.cs
+++AddNewCategory.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\categories\addnewcategory.cshtml
+++_AdminLayout.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\areas\admin\views\shared\_adminlayout.cshtml
+++AuthenticationController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\authenticationcontroller.cs
+++CartController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\cartcontroller.cs
+++HomeController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\homecontroller.cs
+++OrdersController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\orderscontroller.cs
+++ProductController.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\controllers\productcontroller.cs
+++ViewModels
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\viewmodels\
+++ErrorViewModel.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\errorviewmodel.cs
+++_ViewImports.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\pages\_viewimports.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\pages\_viewstart.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\_viewstart.cshtml
+++Error.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\pages\error.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\error.cshtml
+++ClaimUtility.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\utilities\claimutility.cs
+++CookiesManeger.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\utilities\cookiesmaneger.cs
+++GetMenu.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\viewcomponents\getmenu.cs
+++Search.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\viewcomponents\search.cs
+++Authentication
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\authentication\
+++Cart
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\cart\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\cart\
+++Home
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\home\
+++Product
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\product\
+++appsettings.Development.json
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\appsettings.development.json
+++MessagePackAnalyzer
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\users\computer parseh\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\users\computer parseh\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\users\computer parseh\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\microsoft.aspnetcore.app
+++LazZiya.TagHelpers (6.0.2)
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3082
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.17)
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3081
+++Newtonsoft.Json (13.0.3)
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3079
+++Swashbuckle.AspNetCore (6.6.2)
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3078
+++ZarinPal (3.0.1)
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:>3083
+++app-assets
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\
+++site.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\css\site.css
+++fonts
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\meteocons\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\
+++pics
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\pics\
+++ProductImages
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\productimages\
+++site.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\js\site.js
+++bootstrap
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\
+++jquery
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\
+++jquery-validation
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation-unobtrusive\
+++assets
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\
+++sweetalert2.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sweetalert2\sweetalert2.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\sweetalert2.min.css
+++sweetalert2.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sweetalert2\sweetalert2.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\sweetalert2.min.js
+++AuthenticationViewModel
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\viewmodels\authenticationviewmodel\
+++AccessDenied.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\authentication\accessdenied.cshtml
+++Signin.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\authentication\signin.cshtml
+++Signup.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\authentication\signup.cshtml
+++Privacy.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\home\privacy.cshtml
+++Detail.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\product\detail.cshtml
+++Components
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\
+++_Layout.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\_validationscriptspartial.cshtml
+++img
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\
+++vendors
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\
+++bootstrap-rtl.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\css\bootstrap-rtl.css
+++font-awesome.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\css\font-awesome.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\font-awesome.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\font-awesome\css\font-awesome.min.css
+++reset.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\css\reset.min.css
+++style.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\css\style.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\style.css
+++FontAwesome.otf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome.otf
+++fontawesome-webfont.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome-webfont.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome-webfont.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome-webfont.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome-webfont.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\fontawesome-webfont.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\fontawesome-webfont.woff2
+++Vazir.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\vazir.eot
+++Vazir.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\vazir.ttf
+++Vazir.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\vazir.woff
+++Vazir.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\fonts\vazir.woff2
+++bootstrap.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\bootstrap.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\core\bootstrap.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery-3.1.1.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\jquery-3.1.1.min.js
+++jquery-ui.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\jquery-ui.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery-ui.min.js
+++modernizr.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\modernizr.min.js
+++scripts.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\error\js\scripts.js
+++HomePageImages
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\
+++Slider
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\
+++638568332550933288peakpx (27).jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\productimages\638568332550933288peakpx (27).jpg
+++638568332648108217peakpx (27).jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\productimages\638568332648108217peakpx (27).jpg
+++638568336579121690peakpx (30).jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\productimages\638568336579121690peakpx (30).jpg
+++dist
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\dist\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\license.txt
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++SignupViewModel.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\viewmodels\authenticationviewmodel\signupviewmodel.cs
+++HomePageViewModel.cs
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\models\viewmodels\homepages\homepageviewmodel.cs
+++Search
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\search\
+++_Layout.cshtml.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\_layout.cshtml.css
+++app.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\css\app.css
+++persian-datepicker.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\css\persian-datepicker.min.css
+++style-rtl.alpha6.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\css\style-rtl.alpha6.min.css
+++feather
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\
+++font-awesome
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\font-awesome\
+++meteocons
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\meteocons\
+++simple-line-icons
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\
+++IRANSansWeb.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb.eot
+++IRANSansWeb.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb.svg
+++IRANSansWeb.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb.ttf
+++IRANSansWeb.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb.woff
+++IRANSansWeb.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb.woff2
+++IRANSansWeb_Bold.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_bold.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_bold.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb_bold.eot
+++IRANSansWeb_Bold.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_bold.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_bold.svg
+++IRANSansWeb_Bold.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_bold.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_bold.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb_bold.ttf
+++IRANSansWeb_Bold.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_bold.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_bold.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb_bold.woff
+++IRANSansWeb_Bold.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_bold.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_bold.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb_bold.woff2
+++IRANSansWeb_Light.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_light.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_light.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb_light.eot
+++IRANSansWeb_Light.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_light.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_light.svg
+++IRANSansWeb_Light.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_light.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_light.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb_light.ttf
+++IRANSansWeb_Light.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_light.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_light.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb_light.woff
+++IRANSansWeb_Light.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_light.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_light.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb_light.woff2
+++IRANSansWeb_Medium.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_medium.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_medium.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb_medium.eot
+++IRANSansWeb_Medium.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_medium.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_medium.svg
+++IRANSansWeb_Medium.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_medium.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_medium.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb_medium.ttf
+++IRANSansWeb_Medium.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_medium.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_medium.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb_medium.woff
+++IRANSansWeb_Medium.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_medium.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_medium.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb_medium.woff2
+++IRANSansWeb_UltraLight.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_ultralight.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_ultralight.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb_ultralight.eot
+++IRANSansWeb_UltraLight.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_ultralight.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_ultralight.svg
+++IRANSansWeb_UltraLight.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_ultralight.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_ultralight.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb_ultralight.ttf
+++IRANSansWeb_UltraLight.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_ultralight.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_ultralight.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb_ultralight.woff
+++IRANSansWeb_UltraLight.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\iransansweb_ultralight.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\iransansweb_ultralight.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb_ultralight.woff2
+++flags
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\flags\
+++gallery
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\
+++ico
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\
+++logos
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\logos\
+++pages
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\pages\
+++photos
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\
+++portfolio
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\
+++portrait
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\
+++sidebar-bg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\
+++tour
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\tour\
+++width-600
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\width-600\
+++logo.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\logo.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\logo.png
+++data-tables
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\
+++app-sidebar.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\app-sidebar.js
+++chartist.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\chartist.js
+++chartjs.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\chartjs.js
+++chat.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\chat.js
+++coming-soon.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\coming-soon.js
+++components-modal.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\components-modal.min.js
+++customizer.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\customizer.js
+++dashboard-analytics.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\dashboard-analytics.js
+++dashboard-ecommerce.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\dashboard-ecommerce.js
+++draggable.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\draggable.js
+++dropzone.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\dropzone.js
+++form-typeahead.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\form-typeahead.js
+++form-validation.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\form-validation.js
+++fullcalendar.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\fullcalendar.js
+++horizontal-timeline.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\horizontal-timeline.min.js
+++maps.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\maps.js
+++notification-sidebar.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\notification-sidebar.js
+++persian-datepicker.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\persian-datepicker.min.js
+++pick-a-datetime.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\pick-a-datetime.js
+++popover.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\popover.js
+++quill.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\quill.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\quill.min.js
+++rating.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\rating.js
+++sweet-alerts.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\sweet-alerts.js
+++switch.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\switch.min.js
+++tagging.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\tagging.js
+++taskboard.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\taskboard.js
+++toastr.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\toastr.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\toastr.min.js
+++tooltip.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\tooltip.js
+++tour.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\tour.min.js
+++wizard-steps.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\wizard-steps.js
+++638571523591173485a-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571523591173485a-1.jpg
+++638571523927756111a-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571523927756111a-2.jpg
+++638571524378289645a-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571524378289645a-3.jpg
+++638571524591170550a-8.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571524591170550a-8.jpg
+++638571525065780225a-7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571525065780225a-7.jpg
+++638571525287553602a-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571525287553602a-6.jpg
+++638571525507850204camera-canon-4000D.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571525507850204camera-canon-4000d.jpg
+++638571525624856288camera-nikon-3500D.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\homepageimages\638571525624856288camera-nikon-3500d.jpg
+++638568380642448903peakpx (29).jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638568380642448903peakpx (29).jpg
+++638570667454207403peakpx (26).jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638570667454207403peakpx (26).jpg
+++638579348758382279chemin-des-douaniers-3840x2160-normandy-france-beach-rocks-ocean-23348.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638579348758382279chemin-des-douaniers-3840x2160-normandy-france-beach-rocks-ocean-23348.jpg
+++638588790829017104mountains-3840x2160-forest-trees-snow-winter-4k-17144.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638588790829017104mountains-3840x2160-forest-trees-snow-winter-4k-17144.jpg
+++638590680318946183eagle-3840x2160-mountains-lake-5k-17420.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638590680318946183eagle-3840x2160-mountains-lake-5k-17420.jpg
+++jquery.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++vendor
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\
+++main.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\main.css
+++responsive.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\responsive.css
+++IRANSans
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\
+++lightgallery
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\lightgallery\
+++materialdesignicons-webfont.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\materialdesignicons-webfont.eot
+++materialdesignicons-webfont.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\materialdesignicons-webfont.ttf
+++materialdesignicons-webfont.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\materialdesignicons-webfont.woff
+++materialdesignicons-webfont.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\materialdesignicons-webfont.woff2
+++adplacement
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\
+++blog
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\
+++brand
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\
+++cover
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\cover\
+++footer
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\footer\
+++menu-main
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\
+++page-single-product
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\
+++slider-amazing
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\
+++slider-main
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\
+++slider-moment
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\
+++slider-product
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\
+++404.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\404.png
+++loading.gif
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\loading.gif
+++man.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\man.png
+++shopping-cart.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\shopping-cart.png
+++main.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\main.js
+++Cart.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\cart\cart.cshtml
+++GetMenu.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\getmenu\getmenu.cshtml
+++Search.cshtml
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\views\shared\components\search\search.cshtml
+++style.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\style.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\meteocons\style.min.css
+++br.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\flags\br.png
+++de.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\flags\de.png
+++es.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\flags\es.png
+++us.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\flags\us.png
+++1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\1.jpg
+++10.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\10.jpg
+++11.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\11.jpg
+++12.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\12.jpg
+++14.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\14.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\14.jpg
+++16.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\16.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\16.jpg
+++17.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\17.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\17.jpg
+++18.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\18.jpg
+++19.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\19.jpg
+++2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\2.jpg
+++20.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\20.jpg
+++21.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\21.jpg
+++22.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\22.jpg
+++23.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\23.jpg
+++24.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\24.jpg
+++25.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\25.jpg
+++26.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\26.jpg
+++27.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\27.jpg
+++28.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\28.jpg
+++29.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\29.jpg
+++3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\3.jpg
+++30.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\30.jpg
+++31.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\31.jpg
+++32.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\32.jpg
+++33.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\33.jpg
+++4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\4.jpg
+++5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\5.jpg
+++6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\6.jpg
+++7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\7.jpg
+++8.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\8.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\8.jpg
+++9.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\gallery\9.jpg
+++apple-icon-120.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\apple-icon-120.html
+++apple-icon-152.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\apple-icon-152.html
+++apple-icon-60.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\apple-icon-60.html
+++apple-icon-76.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\apple-icon-76.html
+++favicon-32.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\ico\favicon-32.png
+++logo-big-black.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\logos\logo-big-black.png
+++logo-color-big.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\logos\logo-color-big.png
+++sativa.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\pages\sativa.png
+++signature-scan.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\pages\signature-scan.png
+++01.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\01.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\01.jpg
+++02.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\02.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\02.jpg
+++03.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\03.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\03.jpg
+++04.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\04.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\04.jpg
+++05.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\05.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\05.jpg
+++15.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\photos\15.jpg
+++portfolio-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-1.jpg
+++portfolio-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-2.jpg
+++portfolio-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-3.jpg
+++portfolio-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-4.jpg
+++portfolio-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-5.jpg
+++portfolio-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portfolio\portfolio-6.jpg
+++medium
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\medium\
+++small
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\
+++06.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\06.jpg
+++07.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\07.jpg
+++08.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\sidebar-bg\08.jpg
+++cross.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\tour\cross.png
+++portfolio-14.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\width-600\portfolio-14.jpg
+++datatable-advanced.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\datatable-advanced.js
+++datatable-api.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\datatable-api.js
+++datatable-basic.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\datatable-basic.js
+++datatables-sources.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\datatables-sources.js
+++datatable-styling.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\js\data-tables\datatable-styling.js
+++pickadate
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\pickadate\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pickadate\
+++raty
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\
+++tables
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\tables\
+++chartist.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\chartist.min.css
+++dragula.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\dragula.min.css
+++dropzone.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\dropzone.min.css
+++fullcalendar.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fullcalendar.min.css
+++hopscotch.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\hopscotch.css
+++katex.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\katex.min.css
+++monokai-sublime.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\monokai-sublime.min.css
+++perfect-scrollbar.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\perfect-scrollbar.min.css
+++prism.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\prism.min.css
+++quill.bubble.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\quill.bubble.css
+++quill.snow.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\quill.snow.css
+++switchery.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\switchery.min.css
+++tagging.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\tagging.css
+++toastr.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\toastr.css
+++wizard.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\wizard.css
+++core
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\core\
+++datatable
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\tables\datatable\
+++pace
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pace\
+++typeahead
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\typeahead\
+++chart.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\chart.min.js
+++chartist.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\chartist.min.js
+++dragula.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\dragula.min.js
+++dropzone.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\dropzone.min.js
+++fullcalendar.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\fullcalendar.min.js
+++gmaps.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\gmaps.min.js
+++highlight.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\highlight.min.js
+++hopscotch.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\hopscotch.min.js
+++jqBootstrapValidation.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jqbootstrapvalidation.js
+++jquery.countdown.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery.countdown.min.js
+++jquery.matchHeight-min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery.matchheight-min.js
+++jquery.raty.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery.raty.js
+++jquery.steps.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery.steps.min.js
+++jquery.validate.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\jquery.validate.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++katex.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\katex.min.js
+++moment.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\moment.min.js
+++perfect-scrollbar.jquery.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\perfect-scrollbar.jquery.min.js
+++prism.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\prism.min.js
+++screenfull.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\screenfull.min.js
+++switchery.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\switchery.min.js
+++tagging.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\tagging.min.js
+++bootstrap.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\bootstrap.css
+++bootstrap-grid.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-theme.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+++bootstrap-utilities.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\bootstrap.js
+++jquery.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++bootstrap-slider.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\bootstrap-slider.min.css
+++lightgallery.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\lightgallery.css
+++materialdesignicons.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\materialdesignicons.css
+++nice-select.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\nice-select.css
+++noUISlider.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\nouislider.min.css
+++owl.carousel.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\css\vendor\owl.carousel.min.css
+++eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\
+++ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\
+++woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\
+++woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\
+++lg.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\lightgallery\lg.eot
+++lg.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\lightgallery\lg.svg
+++lg.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\lightgallery\lg.ttf
+++lg.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\lightgallery\lg.woff
+++a-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-1.jpg
+++a-10.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-10.jpg
+++a-11.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-11.jpg
+++a-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-2.jpg
+++a-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-3.jpg
+++a-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-4.jpg
+++a-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-5.jpg
+++a-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-6.jpg
+++a-7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-7.jpg
+++a-8.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-8.jpg
+++a-9.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\adplacement\a-9.jpg
+++2017 Home Selling Results.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\2017 home selling results.jpg
+++fortnite-battle-royale-iphone.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\fortnite-battle-royale-iphone.jpg
+++fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg
+++inRqLEr.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\inrqler.jpg
+++iphone-7-plus-water-damage-repair-.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\iphone-7-plus-water-damage-repair-.jpg
+++shutterstock.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\shutterstock.jpg
+++women-calligrapher-in-cozy-home-working.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\blog\women-calligrapher-in-cozy-home-working.jpg
+++adata.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\adata.png
+++huawei.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\huawei.png
+++nokia.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\nokia.png
+++panasonic.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\panasonic.png
+++parskhazar.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\parskhazar.png
+++samsung.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\samsung.png
+++shahab.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\shahab.png
+++xvison.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\brand\xvison.png
+++laptop-cover.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\cover\laptop-cover.jpg
+++license
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\footer\license\
+++card
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\card\
+++category
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\
+++cosmetic.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\cosmetic.png
+++digital.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\digital.png
+++img-card.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\img-card.jpg
+++img-card-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\img-card-2.jpg
+++kitchen.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\kitchen.png
+++product-img
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\
+++tab-content
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\
+++contact-us.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\contact-us.svg
+++delivery.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\delivery.svg
+++origin-guarantee.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\origin-guarantee.svg
+++payment-terms.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\payment-terms.svg
+++return-policy.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\return-policy.svg
+++as-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\as-1.jpg
+++as-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\as-2.jpg
+++as-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\as-3.jpg
+++as-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\as-4.jpg
+++as-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-amazing\as-5.jpg
+++sm-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\sm-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\sm-1.jpg
+++sm-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\sm-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\sm-2.jpg
+++sm-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\sm-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\sm-3.jpg
+++sm-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\sm-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\sm-4.jpg
+++sm-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-main\sm-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-moment\sm-5.jpg
+++asus-laptop.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\asus-laptop.jpg
+++Avocado.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\avocado.jpg
+++boxing.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\boxing.jpg
+++btt.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\btt.jpg
+++camera-canon-4000D.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\camera-canon-4000d.jpg
+++camera-instax-mini-70.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\camera-instax-mini-70.jpg
+++camera-nikon.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\camera-nikon.jpg
+++camera-nikon-3500D.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\camera-nikon-3500d.jpg
+++camera-samsung.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\camera-samsung.jpg
+++computer-appel.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\computer-appel.jpg
+++DNR 290T-366T.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\dnr 290t-366t.jpg
+++ECM2013.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\ecm2013.jpg
+++Galaxy-S10-SM-G973F.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\galaxy-s10-sm-g973f.jpg
+++honer.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\honer.jpg
+++huawei.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\huawei.jpg
+++huawei-p-smart.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\huawei-p-smart.jpg
+++iphone-11-pro-max.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\iphone-11-pro-max.jpg
+++iphone-xs-max-space.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\iphone-xs-max-space.jpg
+++mitbook.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\mitbook.jpg
+++P-Smart-2019.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\p-smart-2019.jpg
+++Samsung-S10Plus.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\samsung-s10plus.jpg
+++SL1200_-300x300.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\sl1200_-300x300.jpg
+++Stove-lopez.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\stove-lopez.jpg
+++SWF-40R.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\swf-40r.jpg
+++t-shirt-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\t-shirt-1.jpg
+++t-shirt-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\t-shirt-2.jpg
+++t-shirt-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\t-shirt-3.jpg
+++zenbook.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\slider-product\zenbook.jpg
+++bootstrap-slider.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\bootstrap-slider.min.js
+++countdown.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\countdown.min.js
+++jquery.countdown.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\jquery.countdown.js
+++jquery.ez-plus.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\jquery.ez-plus.js
+++jquery.nice-select.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\jquery.nice-select.min.js
+++jquery-3.2.1.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\jquery-3.2.1.min.js
+++lightgallery-all.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\lightgallery-all.js
+++nouislider.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\nouislider.min.js
+++owl.carousel.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\owl.carousel.min.js
+++ResizeSensor.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\resizesensor.min.js
+++theia-sticky-sidebar.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\theia-sticky-sidebar.min.js
+++wNumb.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\js\vendor\wnumb.js
+++feather2467.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\feather2467.eot
+++feather2467.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\feather2467.svg
+++feather2467.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\feather2467.ttf
+++feather2467.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\feather\fonts\feather2467.woff
+++meteoconsddea.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\meteocons\fonts\meteoconsddea.eot
+++meteoconsddea.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\meteocons\fonts\meteoconsddea.ttf
+++Simple-Line-Icons.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\fonts\simple-line-icons.eot
+++Simple-Line-Icons.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\fonts\simple-line-icons.svg
+++Simple-Line-Icons.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\fonts\simple-line-icons.ttf
+++Simple-Line-Iconsd41d.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\fonts\simple-line-icons\fonts\simple-line-iconsd41d.eot
+++avatar-m-9.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\medium\avatar-m-9.jpg
+++avatar-s-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-1.jpg
+++avatar-s-11.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-11.jpg
+++avatar-s-12.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-12.jpg
+++avatar-s-14.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-14.jpg
+++avatar-s-15.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-15.jpg
+++avatar-s-16.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-16.jpg
+++avatar-s-17.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-17.jpg
+++avatar-s-18.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-18.jpg
+++avatar-s-19.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-19.jpg
+++avatar-s-20.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-20.jpg
+++avatar-s-21.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-21.jpg
+++avatar-s-22.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-22.jpg
+++avatar-s-23.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-23.jpg
+++avatar-s-24.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-24.jpg
+++avatar-s-27.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-27.jpg
+++avatar-s-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-3.jpg
+++avatar-s-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-4.jpg
+++avatar-s-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-5.jpg
+++avatar-s-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-6.jpg
+++avatar-s-7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-7.jpg
+++avatar-s-8.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-8.jpg
+++avatar-s-9.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\img\portrait\small\avatar-s-9.jpg
+++KaTeX_AMS-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_ams-regular.html
+++KaTeX_AMS-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_ams-regular-2.html
+++KaTeX_AMS-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_ams-regular-3.html
+++KaTeX_AMS-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_ams-regular-4.html
+++KaTeX_Caligraphic-Bold.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-bold.html
+++KaTeX_Caligraphic-Bold.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-bold.ttf
+++KaTeX_Caligraphic-Bold-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-bold-2.html
+++KaTeX_Caligraphic-Bold-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-bold-3.html
+++KaTeX_Caligraphic-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-regular.html
+++KaTeX_Caligraphic-Regular.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-regular.woff2
+++KaTeX_Caligraphic-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-regular-2.html
+++KaTeX_Caligraphic-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_caligraphic-regular-3.html
+++KaTeX_Fraktur-Bold.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-bold.html
+++KaTeX_Fraktur-Bold-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-bold-2.html
+++KaTeX_Fraktur-Bold-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-bold-3.html
+++KaTeX_Fraktur-Bold-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-bold-4.html
+++KaTeX_Fraktur-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-regular.html
+++KaTeX_Fraktur-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-regular-2.html
+++KaTeX_Fraktur-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-regular-3.html
+++KaTeX_Fraktur-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_fraktur-regular-4.html
+++KaTeX_Main-Bold.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-bold.html
+++KaTeX_Main-Bold-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-bold-2.html
+++KaTeX_Main-Bold-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-bold-3.html
+++KaTeX_Main-Bold-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-bold-4.html
+++KaTeX_Main-Italic.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-italic.html
+++KaTeX_Main-Italic-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-italic-2.html
+++KaTeX_Main-Italic-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-italic-3.html
+++KaTeX_Main-Italic-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-italic-4.html
+++KaTeX_Main-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-regular.html
+++KaTeX_Main-Regular.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-regular.woff2
+++KaTeX_Main-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-regular-2.html
+++KaTeX_Main-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_main-regular-3.html
+++KaTeX_Math-Italic.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_math-italic.html
+++KaTeX_Math-Italic.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_math-italic.woff2
+++KaTeX_Math-Italic-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_math-italic-2.html
+++KaTeX_Math-Italic-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_math-italic-3.html
+++KaTeX_SansSerif-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_sansserif-regular.html
+++KaTeX_SansSerif-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_sansserif-regular-2.html
+++KaTeX_SansSerif-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_sansserif-regular-3.html
+++KaTeX_SansSerif-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_sansserif-regular-4.html
+++KaTeX_Script-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_script-regular.html
+++KaTeX_Script-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_script-regular-2.html
+++KaTeX_Script-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_script-regular-3.html
+++KaTeX_Script-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_script-regular-4.html
+++KaTeX_Size1-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size1-regular.html
+++KaTeX_Size1-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size1-regular-2.html
+++KaTeX_Size1-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size1-regular-3.html
+++KaTeX_Size1-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size1-regular-4.html
+++KaTeX_Size2-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size2-regular.html
+++KaTeX_Size2-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size2-regular-2.html
+++KaTeX_Size2-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size2-regular-3.html
+++KaTeX_Size2-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size2-regular-4.html
+++KaTeX_Size3-Regular.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size3-regular.eot
+++KaTeX_Size3-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size3-regular.html
+++KaTeX_Size3-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size3-regular-2.html
+++KaTeX_Size3-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size3-regular-3.html
+++KaTeX_Size4-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size4-regular.html
+++KaTeX_Size4-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size4-regular-2.html
+++KaTeX_Size4-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size4-regular-3.html
+++KaTeX_Size4-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_size4-regular-4.html
+++KaTeX_Typewriter-Regular.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_typewriter-regular.html
+++KaTeX_Typewriter-Regular-2.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_typewriter-regular-2.html
+++KaTeX_Typewriter-Regular-3.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_typewriter-regular-3.html
+++KaTeX_Typewriter-Regular-4.html
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\fonts\katex_typewriter-regular-4.html
+++pickadate.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\pickadate\pickadate.css
+++jquery.raty.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\jquery.raty.css
+++jquery-3.3.1.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\core\jquery-3.3.1.min.js
+++popper.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\core\popper.min.js
+++buttons.flash.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\buttons.flash.min.js
+++buttons.html5.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\buttons.html5.min.js
+++buttons.print.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\buttons.print.min.js
+++dataTables.buttons.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\datatables.buttons.min.js
+++datatables.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\datatables.min.js
+++dataTables.responsive.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\datatables.responsive.min.js
+++jszip.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\jszip.min.js
+++pdfmake.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\pdfmake.min.js
+++vfs_fonts.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\datatable\vfs_fonts.js
+++pace.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pace\pace.min.js
+++legacy.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pickadate\legacy.js
+++picker.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pickadate\picker.js
+++bloodhound.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\typeahead\bloodhound.min.js
+++handlebars.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\typeahead\handlebars.js
+++typeahead.bundle.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\typeahead\typeahead.bundle.min.js
+++bootstrap.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-theme.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+++bootstrap-utilities.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++jquery.min.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\jquery\dist\jquery.min.map
+++IRANSansWeb_Black.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\eot\iransansweb_black.eot
+++IRANSansWeb_Black.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\ttf\iransansweb_black.ttf
+++IRANSansWeb_Black.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff\iransansweb_black.woff
+++IRANSansWeb_Black.woff2
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\fonts\iransans\woff2\iransansweb_black.woff2
+++L-1.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\footer\license\l-1.png
+++L-2.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\footer\license\l-2.png
+++child.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\child.png
+++cup.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\cup.png
+++edit.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\edit.png
+++home.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\home.png
+++makeup.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\makeup.png
+++print.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\print.png
+++smartphone.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\smartphone.png
+++suit.png
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\menu-main\category\suit.png
+++product-img-note10.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10.jpg
+++product-img-note10-big-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-1.jpg
+++product-img-note10-big-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-2.jpg
+++product-img-note10-big-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-3.jpg
+++product-img-note10-big-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-4.jpg
+++product-img-note10-big-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-5.jpg
+++product-img-note10-big-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-6.jpg
+++product-img-note10-big-7.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\product-img\product-img-note10-big-7.jpg
+++note10-1.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-1.jpg
+++note10-2.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-2.jpg
+++note10-3.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-3.jpg
+++note10-4.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-4.jpg
+++note10-5.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-5.jpg
+++note10-6.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\sitetemplate\assets\images\page-single-product\tab-content\note10-6.jpg
+++raty.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\raty.eot
+++raty.svg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\raty.svg
+++raty.ttf
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\raty.ttf
+++raty.woff
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\raty.woff
+++ratyd41d.eot
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\raty\fonts\ratyd41d.eot
+++datatables.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\tables\datatable\datatables.min.css
+++responsive.dataTables.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\css\tables\datatable\responsive.datatables.min.css
+++picker.date.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pickadate\picker.date.js
+++picker.time.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\admintemplate\app-assets\vendors\js\pickadate\picker.time.js
+++bootstrap.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-theme.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+++bootstrap-utilities.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++638592550811117473ha-long-bay-3840x2160-vietnam-mountains-sea-8k-16348.jpg
+i:{6c20c210-f0da-4ee1-8c35-52f91a21afec}:e:\users\computer parseh\source\repos\onlineshop\endpoint.site\wwwroot\images\homepages\slider\638592550811117473ha-long-bay-3840x2160-vietnam-mountains-sea-8k-16348.jpg

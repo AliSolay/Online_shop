@@ -1,0 +1,12 @@
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.deps.json
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\ref\OnlineShop.Common.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.pdb
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.csproj.AssemblyReference.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.AssemblyInfoInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.AssemblyInfo.cs
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.csproj.CoreCompileInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\ref\OnlineShop.Common.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.pdb

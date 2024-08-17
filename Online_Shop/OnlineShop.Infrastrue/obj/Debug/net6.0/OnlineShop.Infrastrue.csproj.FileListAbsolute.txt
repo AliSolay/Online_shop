@@ -1,0 +1,12 @@
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\bin\Debug\net6.0\OnlineShop.Infrastrue.deps.json
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\bin\Debug\net6.0\OnlineShop.Infrastrue.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\bin\Debug\net6.0\ref\OnlineShop.Infrastrue.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\bin\Debug\net6.0\OnlineShop.Infrastrue.pdb
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.csproj.AssemblyReference.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.AssemblyInfoInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.AssemblyInfo.cs
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.csproj.CoreCompileInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\ref\OnlineShop.Infrastrue.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Infrastrue\obj\Debug\net6.0\OnlineShop.Infrastrue.pdb

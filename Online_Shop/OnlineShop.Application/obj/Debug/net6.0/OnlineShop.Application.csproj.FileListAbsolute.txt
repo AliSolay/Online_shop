@@ -1,0 +1,17 @@
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.deps.json
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\ref\OnlineShop.Application.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.pdb
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Common.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Domain.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Common.pdb
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Domain.pdb
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.AssemblyReference.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.AssemblyInfoInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.AssemblyInfo.cs
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.CopyComplete
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\ref\OnlineShop.Application.dll
+E:\Users\Computer Parseh\source\repos\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.pdb

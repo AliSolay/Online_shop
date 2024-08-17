@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3isFA6ViKowB7dCv8+gE8IfhRizZvlkZkB0liJCHDPBoiTqW0k4tKvlL5ULmeWiviGIloKkWTm7XtrsVANpZ5g==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Computer Parseh\\source\\repos\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computer Parseh\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.32\\microsoft.aspnetcore.cryptography.internal.6.0.32.nupkg.sha512",
+    "C:\\Users\\Computer Parseh\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.32\\microsoft.aspnetcore.cryptography.keyderivation.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

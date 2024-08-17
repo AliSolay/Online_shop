@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnlineShop.Common/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "6.0.32"
+        },
+        "runtime": {
+          "OnlineShop.Common.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/6.0.32": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3224.31405"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.32": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.32"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3224.31405"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShop.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/6.0.32": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GjU9TkVbvUToyiYuJbm69i/E2wFgpgZbH31sI9If4l6QgwfD3xSCdU0xtPRCUblYBVvkbT0g0BbWxBYVG+D+iA==",
+      "path": "microsoft.aspnetcore.cryptography.internal/6.0.32",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.6.0.32.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.32": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T1HYxicyPUfWaFnKftBIsrBXHfD9yGFgU5O1xHlrSRPcYEFiEzPGcxWG/hJeTiB5QOsheFhluqrlw8IblOzE5Q==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.32",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.32.nupkg.sha512"
+    }
+  }
+}
